@@ -1,0 +1,17 @@
+project:
+  type: book
+
+book:
+  title: "Python Stack"
+  author: "Rob Osborne"
+  date: "1/26/2025"
+  chapters:
+    - index.qmd
+    - summary.qmd
+    - references.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
